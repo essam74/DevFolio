@@ -1,0 +1,284 @@
+@media screen and (max-width: 1024px) {
+
+    .homecontent {
+        padding-top: 30%;
+    }
+
+    .about .about-content .about-card .aboutcarddesc {
+        padding-left: 1rem;
+    }
+
+
+    .portfolio .container {
+        width: 100%;
+    }
+
+    .allslider {
+        padding: 0px;
+    }
+
+    .blog .container {
+        width: 100%;
+    }
+
+
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .newnavbar .container {
+        width: 100%;
+    }
+
+    .navbar-toggler span {
+        background-color: white;
+        color: white;
+
+    }
+
+    .homecontent h1 {
+        font-size: 4rem;
+
+    }
+
+    .homecontent h3 {
+        font-size: 3rem;
+    }
+
+    .about .about-content {
+        padding: 4rem 2rem;
+    }
+
+    .about .about-content .about-col1 {
+        margin-right: 1.5rem;
+    }
+
+    .about .about-content .about-card .aboutcarddesc {
+        padding-right: 3rem;
+    }
+
+    .about .about-content .about-card .aboutcarddesc span {
+        font-size: 1rem;
+    }
+
+
+    .services-cards .card {
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    .stats .container {
+        width: 100%;
+    }
+
+    .btn-primary {
+        margin-left: 20%;
+        margin-top: 2rem;
+    }
+
+
+    .portfolio h1 {
+        font-size: 3rem;
+    }
+
+    .services h1 {
+        font-size: 3rem;
+    }
+
+    .services .container {
+        margin: auto;
+    }
+
+    .card-footer-right p {
+        font-size: 12px;
+    }
+
+}
+
+@media screen and (max-width: 580px) {
+
+    .homecontent h1 {
+        font-size: 3rem;
+    }
+
+    .homecontent h3 {
+        font-size: 1.8rem;
+        
+    }
+   
+
+    
+
+    .homecontent {
+        padding-top: 50%;
+    }
+
+
+    .about .about-content {
+        display: block;
+    }
+
+    .about .about-content .about-col1 {
+        width: 100%;
+    }
+
+    .about .about-content .about-col2 {
+        width: 100%;
+        padding-top: 20px;
+    }
+
+
+    .services-cards {
+        display: block;
+    }
+
+    .service-col {
+        width: 100%;
+    }
+
+    .stats-cards {
+        display: block;
+        padding: 3rem;
+    }
+
+    .stats-card1 {
+        width: 100%;
+    }
+
+
+
+    .portcards {
+        display: block;
+    }
+
+    .col1 {
+        width: 100%;
+    }
+
+    .groupnew .column1 {
+        display: block;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .all-section {
+        display: block;
+    }
+
+    .all-section .form {
+        width: 100%;
+    }
+
+    .all-section .form-des {
+        width: 100%;
+    }
+
+
+    .footer-content p {
+        font-size: 14px;
+    }
+
+}
+
+
+@media screen and (max-width: 425px) {
+
+    .homecontent h1 {
+        font-size: 3rem;
+    }
+
+    .homecontent h3 {
+        font-size: 1.8rem;
+    }
+
+    .homecontent {
+        padding-top: 50%;
+    }
+
+
+    .about .about-content {
+        display: block;
+    }
+
+    .about .about-content .about-col1 {
+        width: 100%;
+    }
+
+    .about .about-content .about-col2 {
+        width: 100%;
+        padding-top: 20px;
+    }
+
+
+    .services-cards {
+        display: block;
+    }
+
+    .service-col {
+        width: 100%;
+    }
+
+    .stats-cards {
+        display: block;
+        padding: 3rem;
+    }
+
+    .stats-card1 {
+        width: 100%;
+    }
+
+
+
+    .portcards {
+        display: block;
+    }
+
+    .col1 {
+        width: 100%;
+    }
+
+    .groupnew .column1 {
+        display: block;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .all-section {
+        display: block;
+    }
+
+    .all-section .form {
+        width: 100%;
+    }
+
+    .all-section .form-des {
+        width: 100%;
+    }
+
+    .footer-content p {
+        font-size: 14px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 375px) {
+
+
+    .about .about-content .about-card {
+        display: block;
+        font-size: 1.5rem;
+
+    }
+
+    .about .about-content .about-card .aboutcarddesc {
+        padding-left: 0px;
+        line-height: 1.5rem;
+        padding-bottom: 15px;
+    }
+
+
+
+}
